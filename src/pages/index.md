@@ -3,10 +3,10 @@ templateKey: index-page
 title: SDMLab
 image: /img/home-jumbotron.jpg
 heading: SDMLab
-subheading: Spatial Design and Moddeling
+subheading: Spatial Design and Modeling
 mainpitch:
   title: Welcome
-  description: This is a simpel overvies of what you can finde on this website
+  description: This is a simple overview of what you can find on this website
 description: The purpose of SDMLab is to support in the use of tools relating to
   Spatial Design and Modeling. Primarily GIS and other spatial data tools. The
   site is organized in four sub sections.
