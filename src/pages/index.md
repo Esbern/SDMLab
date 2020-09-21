@@ -2,31 +2,23 @@
 templateKey: index-page
 title: SDMLab
 image: /img/home-jumbotron.jpg
-heading: SDMLAb
+heading: SDMLab
 subheading: Spatial Design and Moddeling
 mainpitch:
-  title: Introduction
-  description: On this website, you will find material supporting the use of tools
-    relating to spatial design and modelling
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: Welcome
+  description: This is a simpel overvies of what you can finde on this website
+description: The purpose of SDMLab is to support in the use of tools relating to
+  Spatial Design and Modeling. Primarily GIS and other spatial data tools. The
+  site is organized in four sub sections.
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Tools relating to SDMLab. This is not directly tools for Spatial Design
+        and modelling, but rather tools that enable you to access the tools  
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: "Inspirational material: A collection of material to inspire a democratic
+        use of Spatial Desing and Modelling tools"
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
@@ -42,11 +34,7 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: A overview of the site
 main:
   heading: Great coffee with no compromises
   description: >
