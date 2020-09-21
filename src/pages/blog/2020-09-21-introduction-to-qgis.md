@@ -6,7 +6,8 @@ description: This is a simpel introduction to QGIS
 featuredpost: true
 featuredimage: /img/blog-index.jpg
 tags:
-  - QGIS INtro
+  - QGIS
+  - Map
 ---
 To start watch the video:
 <!-- blank line -->
